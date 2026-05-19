@@ -1,23 +1,65 @@
 # AI Academy – Verantwortungsvolle KI-Nutzung im Publizieren
 
+## Für Lehrende auf einen Blick
+
+**Dieses Spiel ist geeignet wenn Sie in Ihrer Lehrveranstaltung
+folgende Themen behandeln**
+
+Gute wissenschaftliche Praxis, Forschungsethik, Publikationsethik,
+Plagiat und Eigenplagiat, Doppelpublikation, Fragen der Autor:innen-
+schaft, Umgang mit und Offenlegung von KI Nutzung in
+wissenschaftlichen Arbeiten, Elsevier Autorenrichtlinien.
+
+**Typische Einsatzszenarien**
+
+Bachelor- und Master-Seminare zum wissenschaftlichen Arbeiten,
+Doktoratskolloquien, Schreibwerkstätten, Forschungsmethoden-Kurse,
+verpflichtende Module zu Forschungsintegrität, Onboarding in
+Forschungseinrichtungen.
+
+**Sprache**
+
+Das Spiel ist vollständig auf Deutsch. Die inhaltliche Quelle ist
+der englischsprachige Kurs "Writing for Research" der Elsevier
+Researcher Academy. Die Studierenden interagieren ausschließlich mit
+deutschen Texten.
+
+**Dauer und Aufwand**
+
+Etwa 30 bis 45 Minuten Spielzeit. Mastery Score 50 Prozent, das heißt
+ab 50 Prozent richtige Antworten gilt das Spiel als bestanden. Eignet
+sich für Selbststudium ebenso wie als Vorbereitung auf eine
+Präsenzdiskussion.
+
+**Voraussetzungen für Studierende**
+
+Keine technischen Vorkenntnisse, keine fachlichen Vorkenntnisse
+erforderlich. Das Spiel führt durch die Themen.
+
+## Lernziele
+
+Nach dem Spielen können die Studierenden zentrale Prinzipien guter
+wissenschaftlicher Praxis beim Publizieren mit KI Unterstützung
+benennen und in konkreten Situationen anwenden. Sie können Fragen zu
+Autor:innenschaft, Doppelpublikation, Plagiat und der Offenlegung von
+KI Nutzung sicher beantworten, kennen die Elsevier Autorenrichtlinien
+in ihren Nuancen und erkennen typische ethische Stolperfallen im
+Publikationsprozess.
+
 ## Worum geht es im Spiel
 
 AI Academy ist ein interaktives Lernspiel im Pixelart Adventure Stil.
 Lernende steuern eine Spielfigur über Pfeiltasten oder auf mobilen
 Geräten über ein Touch Steuerkreuz durch eine animierte Welt. Im
 Verlauf der Geschichte begegnen sie verschiedenen Spielfiguren, die
-sie in Dialoge verwickeln und ihnen Quizfragen zu den
-Elsevier Autorenrichtlinien stellen. Korrekte Antworten werden mit
-positivem Feedback und Soundeffekten belohnt, falsche Antworten mit
-einer kurzen Erklärung, warum die gewählte Option problematisch ist.
+sie in Dialoge verwickeln und ihnen Quizfragen zu den Elsevier
+Autorenrichtlinien stellen. Korrekte Antworten werden mit positivem
+Feedback und Soundeffekten belohnt, falsche Antworten mit einer
+kurzen Erklärung warum die gewählte Option problematisch ist.
 
-Eingebettet sind Battle Sequenzen und Puzzleelemente, die für
+Eingebettet sind Battle Sequenzen und Puzzleelemente die für
 Abwechslung sorgen, sowie ein Journal in dem Lernende ihren
-Fortschritt nachverfolgen können. Die Mastery Score liegt bei 50
-Prozent. Inhaltliche Grundlage ist der Kurs "Writing for Research"
-der Elsevier Researcher Academy. Behandelt werden unter anderem die
-Themen Autorschaft, Doppelpublikation, Plagiat, KI Offenlegung und
-ethische Standards beim wissenschaftlichen Schreiben.
+Fortschritt nachverfolgen können.
 
 ## SCORM Paket herunterladen
 
@@ -26,7 +68,7 @@ SCORM 1.2 Paket und kann direkt in Moodle als Aktivität "Lernpaket
 (SCORM)" hochgeladen werden. Punktestand und Lernfortschritt werden
 automatisch erfasst.
 
-## Autorinnen und Autoren
+## Autor:innen
 
 René-Christian Foidl, Gunda Griessmann, Roman Hotz, Karin-Christina
 Spudich, Johanna Weishäupl
