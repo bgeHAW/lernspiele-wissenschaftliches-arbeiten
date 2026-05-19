@@ -1,22 +1,71 @@
-# Publication Quest – Interaktives Lernspiel
+# Publication Quest – Abstract und Review-Artikel schreiben
+
+## Für Lehrende auf einen Blick
+
+**Dieses Spiel ist geeignet wenn Sie in Ihrer Lehrveranstaltung
+folgende Themen behandeln**
+
+Das Verfassen eines wissenschaftlichen Abstracts und eines Review-
+Artikels. Funktion und Bestandteile eines Abstracts, präziser
+wissenschaftlicher Schreibstil, Aufbau einer Literaturübersicht von
+der Einordnung des Themas über die Analyse bis zu
+Zukunftsperspektiven.
+
+**Typische Einsatzszenarien**
+
+Schreibwerkstätten, Seminare zum wissenschaftlichen Arbeiten,
+Vorbereitung auf Bachelor- oder Masterarbeit, Methodenmodule,
+Begleitlehrveranstaltungen zu Abschlussarbeiten, Einstiegsmodule für
+Forschungspraktika.
+
+**Sprache**
+
+Das Spiel ist vollständig auf Deutsch. Keine Englischkenntnisse
+erforderlich.
+
+**Dauer und Aufwand**
+
+Etwa 30 bis 45 Minuten Spielzeit für beide Level. Die Level können
+auch einzeln gespielt werden: Level 1 isoliert, wenn nur das
+Schreiben eines Abstracts Thema ist, Level 2 isoliert, wenn der
+Schwerpunkt auf Review-Artikeln liegt.
+
+**Voraussetzungen für Studierende**
+
+Keine technischen Vorkenntnisse. Erste Berührung mit
+wissenschaftlichem Schreiben hilfreich aber nicht zwingend, das Spiel
+funktioniert als Einstieg ebenso wie zur Vertiefung.
+
+## Lernziele
+
+Nach dem Spielen können die Studierenden die Funktion und die
+zentralen Bestandteile eines wissenschaftlichen Abstracts benennen
+und einen angemessenen Schreibstil von einem unangemessenen
+unterscheiden (Level 1). Sie kennen den typischen Aufbau eines
+Review-Artikels und können einordnen, warum ein Review mit der
+Themeneinordnung beginnt, bevor er zur Analyse und zu
+Zukunftsperspektiven übergeht (Level 2).
 
 ## Worum geht es im Spiel
 
-Publication Quest ist ein zweistufiges Lernspiel zum Prozess des
-wissenschaftlichen Publizierens. Lernende starten im Hub Bereich, von
-dem aus sie Level 1 und Level 2 ansteuern können. Jedes Level
-führt sie durch eine eigene Spielwelt mit atmosphärischer Grafik und
-musikalischer Untermalung. Sie bewegen ihre Spielfigur durch die
-Szenerie, interagieren mit Objekten und Charakteren und treffen
-Entscheidungen, die den Fortschritt im Publikationsprozess
-widerspiegeln.
+Publication Quest ist ein zweistufiges Lernspiel zu zwei zentralen
+wissenschaftlichen Textsorten. Lernende starten im Hub Bereich, von
+dem aus sie Level 1 und Level 2 ansteuern können. Jedes Level führt
+sie durch eine eigene Spielwelt mit atmosphärischer Grafik und
+musikalischer Untermalung.
 
-Level 1 widmet sich den frühen Phasen, also Themenfindung,
-Forschungsfrage, Recherche und Strukturierung. Level 2 führt die
-Spielfigur in die spätere Phase rund um Einreichung, Peer Review und
-Umgang mit Feedback. Die Inszenierung ist bewusst atmosphärisch
-gehalten: Eine stimmige Musik und durchgehende Bildsprache sollen die
-Immersion stützen und so die Motivation aufrechterhalten.
+Level 1 widmet sich dem Abstract. Lernende beantworten Fragen zur
+Funktion eines Abstracts, zu seinen Bestandteilen und zum richtigen
+Schreibstil. Beispielsätze müssen als angemessen oder unangemessen
+eingestuft werden.
+
+Level 2 widmet sich dem Review-Artikel. Lernende erkunden den Aufbau
+einer Literaturübersicht von der Einordnung des Themas über die
+Analyse bestehender Forschung bis zu Zukunftsperspektiven.
+
+Die Inszenierung ist bewusst atmosphärisch gehalten. Eine stimmige
+Musik und durchgehende Bildsprache sollen die Immersion stützen und
+so die Motivation aufrechterhalten.
 
 ## SCORM Paket herunterladen
 
@@ -25,7 +74,7 @@ vollständiges SCORM 1.2 Paket und kann direkt in Moodle als Aktivität
 "Lernpaket (SCORM)" hochgeladen werden. Einstiegspunkt ist die
 `hub.html`, von der aus die beiden Level erreichbar sind.
 
-## Autorinnen und Autoren
+## Autor:innen
 
 Muhamed Alyouzbashi, Gabriele Dopler, Johannes Huber, Elisa Pilgram,
 Andreas Unterguggenberger
