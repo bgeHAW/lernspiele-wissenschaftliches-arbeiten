@@ -1,18 +1,30 @@
 # AI Academy – Verantwortungsvolle KI-Nutzung im Publizieren
 
-Ein Pixelart Adventure Lernspiel rund um den verantwortungsvollen
-Einsatz von KI Tools im wissenschaftlichen Publizieren. Inhaltliche
-Grundlage ist der Kurs "Writing for Research" der Elsevier Researcher
-Academy. Im Spiel bewegen sich Lernende durch eine interaktive Welt,
-beantworten Quizfragen und erhalten differenziertes Feedback zu den
-Nuancen der Elsevier Autorenrichtlinien.
+## Worum geht es im Spiel
+
+AI Academy ist ein interaktives Lernspiel im Pixelart Adventure Stil.
+Lernende steuern eine Spielfigur über Pfeiltasten oder auf mobilen
+Geräten über ein Touch Steuerkreuz durch eine animierte Welt. Im
+Verlauf der Geschichte begegnen sie verschiedenen Spielfiguren, die
+sie in Dialoge verwickeln und ihnen Quizfragen zu den
+Elsevier Autorenrichtlinien stellen. Korrekte Antworten werden mit
+positivem Feedback und Soundeffekten belohnt, falsche Antworten mit
+einer kurzen Erklärung, warum die gewählte Option problematisch ist.
+
+Eingebettet sind Battle Sequenzen und Puzzleelemente, die für
+Abwechslung sorgen, sowie ein Journal in dem Lernende ihren
+Fortschritt nachverfolgen können. Die Mastery Score liegt bei 50
+Prozent. Inhaltliche Grundlage ist der Kurs "Writing for Research"
+der Elsevier Researcher Academy. Behandelt werden unter anderem die
+Themen Autorschaft, Doppelpublikation, Plagiat, KI Offenlegung und
+ethische Standards beim wissenschaftlichen Schreiben.
 
 ## SCORM Paket herunterladen
 
 Die Datei `ai-academy.zip` in diesem Ordner ist ein vollständiges
 SCORM 1.2 Paket und kann direkt in Moodle als Aktivität "Lernpaket
 (SCORM)" hochgeladen werden. Punktestand und Lernfortschritt werden
-automatisch erfasst, die Mastery Score liegt bei 50 Prozent.
+automatisch erfasst.
 
 ## Autorinnen und Autoren
 
@@ -28,11 +40,11 @@ Hochschule Burgenland, Kohorte MEWM-BB-4-SS2026-DISTR, Sommersemester
 
 ## Verwendete KI Tools und Vorgehen
 
-Transkription der Videos mit Pixel Pro und YouTube Transcript.
-Inhaltsanalyse und Deep Research mit Gemini. Inhaltsverdichtung,
-Didaktisierung, Konzeption, Prototyp und SCORM Erstellung mit Claude.
-Iterative Qualitätssicherung durch das Team und mehrere Testläufe in
-Moodle.
+Transkription der Elsevier Videos mit Pixel Pro und YouTube
+Transcript. Inhaltsanalyse und Deep Research mit Gemini.
+Inhaltsverdichtung, Didaktisierung, Konzeption, Prototyp und SCORM
+Erstellung mit Claude. Iterative Qualitätssicherung durch das Team
+und mehrere Testläufe in Moodle.
 
 ## Reflexion zur KI Unterstützung
 
