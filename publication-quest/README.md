@@ -18,25 +18,20 @@ Vorbereitung auf Bachelor- oder Masterarbeit, Methodenmodule,
 Begleitlehrveranstaltungen zu Abschlussarbeiten, Einstiegsmodule für
 Forschungspraktika.
 
-**Sprache**
+**Sprache:** Vollständig auf Deutsch. Keine Englischkenntnisse
+notwendig.
 
-Das Spiel ist vollständig auf Deutsch. Keine Englischkenntnisse
-erforderlich.
+**Dauer:** Etwa 30 bis 45 Minuten Spielzeit für beide Level. Die
+Level können auch einzeln gespielt werden: Level 1 isoliert, wenn
+nur das Schreiben eines Abstracts Thema ist, Level 2 isoliert, wenn
+der Schwerpunkt auf Review-Artikeln liegt.
 
-**Dauer und Aufwand**
+**Voraussetzungen für Studierende:** Keine technischen
+Vorkenntnisse. Erste Berührung mit wissenschaftlichem Schreiben
+hilfreich aber nicht zwingend, das Spiel funktioniert als Einstieg
+ebenso wie zur Vertiefung.
 
-Etwa 30 bis 45 Minuten Spielzeit für beide Level. Die Level können
-auch einzeln gespielt werden: Level 1 isoliert, wenn nur das
-Schreiben eines Abstracts Thema ist, Level 2 isoliert, wenn der
-Schwerpunkt auf Review-Artikeln liegt.
-
-**Voraussetzungen für Studierende**
-
-Keine technischen Vorkenntnisse. Erste Berührung mit
-wissenschaftlichem Schreiben hilfreich aber nicht zwingend, das Spiel
-funktioniert als Einstieg ebenso wie zur Vertiefung.
-
-## Lernziele
+## Was lernen die Studierenden
 
 Nach dem Spielen können die Studierenden die Funktion und die
 zentralen Bestandteile eines wissenschaftlichen Abstracts benennen
@@ -46,13 +41,15 @@ Review-Artikels und können einordnen, warum ein Review mit der
 Themeneinordnung beginnt, bevor er zur Analyse und zu
 Zukunftsperspektiven übergeht (Level 2).
 
-## Worum geht es im Spiel
+## Wie wird gelernt
 
-Publication Quest ist ein zweistufiges Lernspiel zu zwei zentralen
-wissenschaftlichen Textsorten. Lernende starten im Hub Bereich, von
-dem aus sie Level 1 und Level 2 ansteuern können. Jedes Level führt
-sie durch eine eigene Spielwelt mit atmosphärischer Grafik und
-musikalischer Untermalung.
+Publication Quest ist ein zweistufiges Lernspiel mit einem Hub
+Bereich als Startpunkt. Von dort aus steuern Lernende Level 1 und
+Level 2 an. Jedes Level führt durch eine eigene Spielwelt mit
+atmosphärischer Grafik und musikalischer Untermalung. Lernende
+bewegen ihre Spielfigur durch die Szenerie, interagieren mit
+Objekten und Charakteren und beantworten Fragen zu konkreten
+Schreibsituationen.
 
 Level 1 widmet sich dem Abstract. Lernende beantworten Fragen zur
 Funktion eines Abstracts, zu seinen Bestandteilen und zum richtigen
