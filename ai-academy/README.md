@@ -17,36 +17,29 @@ Doktoratskolloquien, Schreibwerkstätten, Forschungsmethoden-Kurse,
 verpflichtende Module zu Forschungsintegrität, Onboarding in
 Forschungseinrichtungen.
 
-**Sprache**
+**Sprache:** Vollständig auf Deutsch. Keine Englischkenntnisse
+notwendig. Die inhaltliche Quelle ist der englischsprachige Kurs
+"Writing for Research" der Elsevier Researcher Academy, die
+Studierenden interagieren aber ausschließlich mit deutschen Texten.
 
-Das Spiel ist vollständig auf Deutsch. Die inhaltliche Quelle ist
-der englischsprachige Kurs "Writing for Research" der Elsevier
-Researcher Academy. Die Studierenden interagieren ausschließlich mit
-deutschen Texten.
+**Dauer:** Etwa 30 bis 45 Minuten Spielzeit. Mastery Score liegt bei
+50 Prozent, das heißt ab dieser Schwelle gilt das Spiel als
+bestanden.
 
-**Dauer und Aufwand**
+**Voraussetzungen für Studierende:** Keine technischen oder
+fachlichen Vorkenntnisse erforderlich, das Spiel führt durch die
+Themen.
 
-Etwa 30 bis 45 Minuten Spielzeit. Mastery Score 50 Prozent, das heißt
-ab 50 Prozent richtige Antworten gilt das Spiel als bestanden. Eignet
-sich für Selbststudium ebenso wie als Vorbereitung auf eine
-Präsenzdiskussion.
+## Was lernen die Studierenden
 
-**Voraussetzungen für Studierende**
+Nach dem Spielen kennen die Studierenden die zentralen Prinzipien
+guter wissenschaftlicher Praxis beim Publizieren mit KI Unterstützung.
+Sie können Fragen zu Autor:innenschaft, Doppelpublikation, Plagiat
+und der Offenlegung von KI Nutzung sicher beantworten, kennen die
+Elsevier Autorenrichtlinien in ihren Nuancen und erkennen typische
+ethische Stolperfallen im Publikationsprozess.
 
-Keine technischen Vorkenntnisse, keine fachlichen Vorkenntnisse
-erforderlich. Das Spiel führt durch die Themen.
-
-## Lernziele
-
-Nach dem Spielen können die Studierenden zentrale Prinzipien guter
-wissenschaftlicher Praxis beim Publizieren mit KI Unterstützung
-benennen und in konkreten Situationen anwenden. Sie können Fragen zu
-Autor:innenschaft, Doppelpublikation, Plagiat und der Offenlegung von
-KI Nutzung sicher beantworten, kennen die Elsevier Autorenrichtlinien
-in ihren Nuancen und erkennen typische ethische Stolperfallen im
-Publikationsprozess.
-
-## Worum geht es im Spiel
+## Wie wird gelernt
 
 AI Academy ist ein interaktives Lernspiel im Pixelart Adventure Stil.
 Lernende steuern eine Spielfigur über Pfeiltasten oder auf mobilen
@@ -55,7 +48,8 @@ Verlauf der Geschichte begegnen sie verschiedenen Spielfiguren, die
 sie in Dialoge verwickeln und ihnen Quizfragen zu den Elsevier
 Autorenrichtlinien stellen. Korrekte Antworten werden mit positivem
 Feedback und Soundeffekten belohnt, falsche Antworten mit einer
-kurzen Erklärung warum die gewählte Option problematisch ist.
+kurzen Erklärung warum die gewählte Option problematisch ist. Das
+Feedback ist also nicht binär richtig oder falsch, sondern erläuternd.
 
 Eingebettet sind Battle Sequenzen und Puzzleelemente die für
 Abwechslung sorgen, sowie ein Journal in dem Lernende ihren
@@ -77,7 +71,7 @@ Spudich, Johanna Weishäupl
 
 Entwickelt im Rahmen der Lehrveranstaltung von Barbara Geyer im
 Masterstudiengang E-Learning und Wissensmanagement (MEWM) an der
-Hochschule Burgenland, Kohorte MEWM-BB-4-SS2026-DISTR, Sommersemester
+Hochschule Burgenland, Sommersemester
 2026.
 
 ## Verwendete KI Tools und Vorgehen
